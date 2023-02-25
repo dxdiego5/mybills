@@ -1,0 +1,7 @@
+{% block 'title' %} Home {% endblock %}
+
+
+<!-- Dados -->
+{% block 'content' %}
+<h1>INfo</h1>
+{% endblock %}

@@ -3,3 +3,7 @@ db.sqlite3
 **__cache__**
 **__pycache__**
 DStore.__cache__
+static/vendor
+static/scss
+static/img
+
